@@ -1,6 +1,6 @@
 # Gym-AB-Testing
 ## Scenario
-A gym called Flex Zone is trying to increase their gym memberships and wants to test out a new button for registration to see if that will boost memberships. The success rate for the new, experimental button will be determined by click through rate. I will perform an A/B test using a 2-sample Z Test because it fit the criteria of having more than 30 data points per group, so by the central limit theorem, we can assume that there is a normal distribution for the data.
+A gym called Flex Zone is trying to increase their gym memberships and wants to test out a new button for registration to see if that will boost memberships. The success rate for the new, experimental button will be determined by click through rate. I will perform an A/B test using a 2-sample Z Test because it fits the criteria of having more than 30 data points per group, so by the central limit theorem, we can assume that there is a normal distribution for the data.
 
 <img src="https://github.com/user-attachments/assets/a20d0366-690d-4697-ab05-799d4b740607" width="700" height="400">
 
